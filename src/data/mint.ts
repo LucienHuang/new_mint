@@ -4,7 +4,7 @@ export const mint = {
     type: 'E4C Rangers NFT AJAW Series 4',
     name: 'Kaax: The Golem',
     content:
-      '<p>Kaax is a mysterious figure who travels through time from the Ancient Mayan Empire. Kaax can teleport through continuums, and his huge body gives him a bulldozer capability to deal with huge amounts of damage. <a href="https://www.ambrus.studio/worldview/ranger/17"  target="_blank" rel="noopener noreferrer">Learn more about Kaax</a></p>',
+      '<p>Kaax is a mysterious figure who travels through time from the Ancient Mayan Empire. Kaax can teleport through continuums, and his huge body gives him a bulldozer capability to deal huge amounts of damage. <a href="https://www.ambrus.studio/worldview/ranger/17"  target="_blank" rel="noopener noreferrer">Learn more about Kaax</a></p>',
     // note: '<p>For public mint, visit <a href="https://rarible.com/" target="_blank" rel="noopener">Rarible.com</a></p>'
   },
   disclaimer: {
@@ -21,7 +21,7 @@ export const mint = {
     name: 'E4C Rangers AJAW',
     amount: 9999,
     describe: `<p>Free mint and available to Whitelist owners only.</p>
-               <p><strong>Mint Timeline:</strong> From April 18th at 10:00 A.M. SGT</p>`,
+               <p><strong>Mint Timeline:</strong> From May 8th at 10:00 A.M. SGT</p>`,
     tips_title: 'Utilities',
     tips_content: `<li>In-game item airdrops.</li>
                   <li>More to reveal on the Mysterious Chip Program.</li>`,
