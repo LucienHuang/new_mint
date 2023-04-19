@@ -32,7 +32,7 @@ export const mint = {
 export const mintAccessModal = {
   whitelist: {
     title: 'You have Mint Access',
-    subtitle: 'Permit Mint Time',
+    subtitle: 'Whitelist Mint Time',
     time: 'From May 8, 10AM SGT',
   },
   public: {
